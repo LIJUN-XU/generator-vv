@@ -19,7 +19,7 @@ module.exports = class extends Generator {
     }
     constructor(args, opts) {
         super(args, opts);
-        this.appname = "vk-vue";
+        this.appname = "vv";
     }
     paths() {
         this.sourceRoot();
