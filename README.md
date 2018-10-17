@@ -1,3 +1,4 @@
+test
 # templates
 
 > A Vue.js project
